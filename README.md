@@ -32,5 +32,8 @@ The application will be available at:
 - POST `/banque/comptes` - Create a new account
 - PUT `/banque/comptes/{id}` - Update an existing account
 - DELETE `/banque/comptes/{id}` - Delete an account
+<img width="1920" height="960" alt="Screenshot 2025-12-04 172631" src="https://github.com/user-attachments/assets/e8fc941b-ad38-4b6e-982c-862c0f0153dc" />
 
-All endpoints support both JSON and XML formats.
+
+<img width="1920" height="960" alt="Screenshot 2025-12-04 172959" src="https://github.com/user-attachments/assets/b1705731-f002-42f1-abce-3333755f5f0e" />
+
